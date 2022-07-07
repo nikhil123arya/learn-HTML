@@ -11,4 +11,5 @@ some metadata
 
 git branching tutorial 
 
-1. open index.html in your browser.....
+1. open index.html in your browser
+2. 
